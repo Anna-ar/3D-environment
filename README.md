@@ -1,5 +1,6 @@
 # 3D-environment
 A 3D model of International Hellenic University, Sindos
+![IN  FRONT](https://github.com/Valentina-ar/3D-environment/assets/57010352/896a62fe-ca70-4769-9e53-c5cb69bf4870)
 
 ## Description
 The International Hellenic University of Sindos, created in a three dimensional model through the 3D graphics design program, Blender.
